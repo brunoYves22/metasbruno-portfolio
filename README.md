@@ -18,6 +18,28 @@ Cópia independente para portfólio, com histórico novo. Não está conectada �
 
 React, TypeScript, Vite, Tailwind CSS, shadcn/ui e Supabase (PostgreSQL).
 
+## Telas do sistema
+
+> Capturas fornecidas pelo autor e editadas para demonstração. Os valores das metas e o período exibido são fictícios. As telas mantêm o estado sem registros e não representam resultados reais.
+
+### Dashboard e meta diária
+
+Resumo das comissões e vendas do dia, com acompanhamento da meta diária.
+
+![Dashboard e meta diária — demonstração](docs/screenshots/01-dashboard.png)
+
+### Vendas e acompanhamento mensal
+
+Seleção do mês, progresso da meta mensal, indicadores e área de consulta das vendas por dia.
+
+![Vendas e acompanhamento mensal — demonstração](docs/screenshots/02-vendas.png)
+
+### Metas e conquistas
+
+Resumo das metas diárias e mensais atingidas, com áreas para consultar o histórico de conquistas.
+
+![Metas e conquistas — demonstração](docs/screenshots/03-metas.png)
+
 ## Executar localmente
 
 Pré-requisitos: Node.js, npm e um projeto Supabase de teste.
