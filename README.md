@@ -2,9 +2,9 @@
 
 Aplicação web para registrar vendas, calcular comissões e acompanhar metas diárias e mensais.
 
-## Sobre esta versão
+## Versão demonstrativa
 
-Cópia independente para portfólio, com histórico novo. Não está conectada à aplicação em produção nem à sincronização do Lovable. Os arquivos de ambiente, identificadores do projeto de produção e dados de acesso não foram incluídos.
+Este repositório apresenta a versão de portfólio do projeto. As capturas utilizam dados fictícios, e o ambiente de produção permanece separado.
 
 ## Funcionalidades
 
@@ -41,6 +41,8 @@ Resumo das metas diárias e mensais atingidas, com áreas para consultar o hist�
 ![Metas e conquistas — demonstração](docs/screenshots/03-metas.png)
 
 ## Executar localmente
+
+Esta versão possui histórico próprio e não está vinculada à sincronização do Lovable. Arquivos de ambiente, identificadores de produção e dados de acesso não foram incluídos; a execução exige a configuração de um ambiente de teste.
 
 Pré-requisitos: Node.js, npm e um projeto Supabase de teste.
 
